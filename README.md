@@ -14,3 +14,6 @@
 [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
 <br><br>
 [Students tutorial](https://www.studentstutorial.com) - Students Tutorial, online platform that offers professional resources for students on web development and other programming language.
+<br><br>
+[Basic Web Training](https://www.htmldog.com) - https://www.htmldog.com
+<br><br>
