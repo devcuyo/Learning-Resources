@@ -43,4 +43,7 @@
 
 - [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source
 
+- [js Fiddle](https://jsfiddle.net/) - https://jsfiddle.net/
+
 - [Code Share](https://codeshare.io/) - Sharing Code Editor
+
