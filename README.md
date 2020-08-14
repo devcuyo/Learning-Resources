@@ -12,3 +12,5 @@
 [A visual guide to CSS](https://cssreference.io) - https://cssreference.io
 <br><br>
 [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
+<br><br>
+[Students tutorial](https://www.studentstutorial.com) - Students Tutorial, online platform that offers professional resources for students on web development and other programming language.
