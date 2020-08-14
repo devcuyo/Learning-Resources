@@ -34,8 +34,10 @@
 
 # Tools
 
-- [Transparent png images for your website](https://cleanpng.com) - https://cleanpng.com
+- [Transparent png images for your website](https://cleanpng.com)
 
 - [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source
 
-- [Code Share](https://codeshare.io/) - https://codeshare.io/
+- [Code Share](https://codeshare.io/) - Sharing Code Editor
+
+- [Using the new Paging 3 library](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)
