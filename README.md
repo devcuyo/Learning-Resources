@@ -39,7 +39,8 @@
 
 - [A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
 
-- [Discudemy](https://www.discudemy.com) - free udemy courses 
+- [Discudemy](https://www.discudemy.com) - free udemy courses
+- [Freecodecamp](https://www.freecodecamp.org)- Freecodecamp
 
 # Videos
 
