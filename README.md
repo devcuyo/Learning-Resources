@@ -20,3 +20,4 @@
 [Creating a QR code scanner app](https://learntodroid.com/how-to-create-a-qr-code-scanner-app-in-android/) - https://learntodroid.com/how-to-create-a-qr-code-scanner-app-in-android/
 <br><br>
 [Getting started with Firebase Remote Config](https://blog.mindorks.com/getting-started-with-firebase-remote-config-in-android) - https://blog.mindorks.com/getting-started-with-firebase-remote-config-in-android
+[Using the new Paging 3 library](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8) - https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8
