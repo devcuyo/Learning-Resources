@@ -2,4 +2,4 @@
 
 ### Some useful resources
 
-`[Nodejs Tutorial](https://nodejs.dev/learn)`
+[Nodejs Tutorial](https://nodejs.dev/learn)
