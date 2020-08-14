@@ -22,6 +22,8 @@
 
 - [Robin Wieruch Blog ](https://www.robinwieruch.de/blog) - JavaScript, React, NodeJS, GraphQL, Firebase.
 
+[Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source
+
 [A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
 [A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
 <br><br>
