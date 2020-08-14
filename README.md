@@ -25,7 +25,6 @@
 - [A visual guide to CSS](https://cssreference.io) - https://cssreference.io
 
 - [Robin Wieruch Blog ](https://www.robinwieruch.de/blog) - JavaScript, React, NodeJS, GraphQL, Firebase.
-- [discudemy](https://www.discudemy.com) - free udemy courses 
 
 # Courses
 
@@ -36,6 +35,8 @@
 - [Students tutorial](https://www.studentstutorial.com) - https://www.studentstutorial.com 
 
 - [A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
+
+- [Discudemy] (https://www.discudemy.com) - free udemy courses 
 
 # Videos
 
