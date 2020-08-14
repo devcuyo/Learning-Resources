@@ -26,11 +26,14 @@
 
 - [Robin Wieruch Blog ](https://www.robinwieruch.de/blog) - JavaScript, React, NodeJS, GraphQL, Firebase.
 
+-[An Amazing blog for CSS](https://www.css-tricks.com) - CSS Tricks
+
 # Courses
 
 - [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
 
 - [Basic Web Training](https://www.htmldog.com) - https://www.htmldog.com
+- [Web Developer Bootcamp](https://www.frontendmasters.com) - https://www.frontendmasters.com
 
 - [Students tutorial](https://www.studentstutorial.com) - https://www.studentstutorial.com 
 
@@ -55,3 +58,5 @@
 
  # Books
 - [The React Handbook](https://flaviocopes.com/page/react-handbook/)- by Flavio Copes
+
+-[The Javascript Handbook(https://eloquentjavascript.net)- Marjin Haverbeke
