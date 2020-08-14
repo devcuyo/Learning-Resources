@@ -10,3 +10,5 @@
 [Transparent png images for your website](https://cleanpng.com) - https://cleanpng.com
 <br><br>
 [A visual guide to CSS](https://cssreference.io) - https://cssreference.io
+<br><br>
+[Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
