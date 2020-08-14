@@ -12,6 +12,9 @@
 
 - [Using the new Paging 3 library](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)
 
+- [Dagger Hilt Tutorial](https://blog.mindorks.com/dagger-hilt-tutorial) - https://blog.mindorks.com/dagger-hilt-tutorial
+
+
 # Blogs
 
 - [Nodejs Tutorial](https://nodejs.dev/learn) - https://nodejs.dev/learn
