@@ -39,5 +39,7 @@
 
 - [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source
 
+- [FlowMapp](https://flowmapp.com) - An online UX  planning tools for creating visual customer journey maps, user flows, sitemaps, and personas. 
+
 
 
