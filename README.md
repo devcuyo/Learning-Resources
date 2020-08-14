@@ -18,6 +18,8 @@
 [Students tutorial](https://www.studentstutorial.com) - https://www.studentstutorial.com 
 <br><br>
 
+- [8 Minimum Viable Product Examples to Start a Digital Business](https://mlsdev.com/blog/minimum-viable-product-examples)
+
 [A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
 [A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
 <br><br>
