@@ -1,3 +1,4 @@
+![DevC Logo](https://avatars3.githubusercontent.com/u/68395191?s=200&v=4)
 # DevCUyo Learning Resources
 
 ### Useful Resources.
