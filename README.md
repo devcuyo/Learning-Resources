@@ -12,3 +12,5 @@
 [A visual guide to CSS](https://cssreference.io) - https://cssreference.io
 <br><br>
 [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
+<br><br>
+[A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
