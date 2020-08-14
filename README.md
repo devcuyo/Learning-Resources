@@ -10,6 +10,8 @@
 
 - [Getting started with Firebase Remote Config](https://blog.mindorks.com/getting-started-with-firebase-remote-config-in-android) - https://blog.mindorks.com/getting-started-with-firebase-remote-config-in-android
 
+- [Dagger Hilt Tutorial](https://blog.mindorks.com/dagger-hilt-tutorial) - https://blog.mindorks.com/dagger-hilt-tutorial
+
 # Blogs
 
 - [Nodejs Tutorial](https://nodejs.dev/learn) - https://nodejs.dev/learn
