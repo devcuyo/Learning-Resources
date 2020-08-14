@@ -13,4 +13,7 @@
 <br><br>
 [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
 <br><br>
-[Students tutorial](https://www.studentstutorial.com) - Students Tutorial, online platform that offers professional resources for students on web development and other programming language.
+[Students tutorial](https://www.studentstutorial.com) - https://www.studentstutorial.com 
+<br><br>
+[A Data Science library for JavaScript](https://jsdata.gitbook.io/danfojs) - https://jsdata.gitbook.io/danfojs/getting-started
+
