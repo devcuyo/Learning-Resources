@@ -32,6 +32,8 @@
 
 - [TechCrunch](https://techcrunch.com/) – Startup and Technology News Blog
 
+- [https://daveceddia.com/archives/](https://daveceddia.com/archives/)- Archieves of All Programming post by Dave Ceddia.
+
 # Courses
 
 - [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
