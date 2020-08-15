@@ -56,6 +56,7 @@
 - [Code Share](https://codeshare.io/) - Sharing Code Editor
 
 - [FlowMapp](https://flowmapp.com) - An online UX  planning tools for creating visual customer journey maps, user flows, sitemaps, and personas.
+-[UI design](https://www.uidesigndaily.com)- An awesome tool for ui design to test frontend skills
 
 - [Codepen](https://www.codepen.io)- An Online coding text editor.
 
