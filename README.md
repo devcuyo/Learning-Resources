@@ -5,6 +5,8 @@
 
 # Articles
 
+- [How to learn React.js in 2020](https://www.robinwieruch.de/learn-React-Js)
+
 - [8 Minimum Viable Product Examples to Start a Digital Business](https://mlsdev.com/blog/minimum-viable-product-examples)
 
 - [Creating a QR code scanner app](https://learntodroid.com/how-to-create-a-qr-code-scanner-app-in-android/) - https://learntodroid.com/how-to-create-a-qr-code-scanner-app-in-android/
