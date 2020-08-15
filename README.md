@@ -73,6 +73,8 @@
 - [PostMan](https://www.postman.com)-An awesome tool for APIs.
 - [UI design](https://www.uidesigndaily.com)- An awesome desihn resource to practice frontend skills
 
+- [Regex101](https://regex101.com) - Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+
  # Books
 - [The React Handbook](https://flaviocopes.com/page/react-handbook/)- by Flavio Copes
 
