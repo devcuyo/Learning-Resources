@@ -15,6 +15,8 @@
 
 - [Dagger Hilt Tutorial](https://blog.mindorks.com/dagger-hilt-tutorial) - https://blog.mindorks.com/dagger-hilt-tutorial
 
+- [Effortlessly build Progressive Web Apps (PWA) with Angular](https://medium.com/codingurukul/angular-8-making-progressive-web-apps-4e349ddaa8df)
+
 
 # Blogs
 
@@ -67,3 +69,5 @@
 - [The React Handbook](https://flaviocopes.com/page/react-handbook/)- by Flavio Copes
 
 - [The Javascript Handbook](https://eloquentjavascript.net)- Marjin Haverbeke
+
+
