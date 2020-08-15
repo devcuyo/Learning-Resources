@@ -5,6 +5,8 @@
 
 # Articles
 
+- [Why 43% of Front-End Developers want to learn Vue.js](https://medium.com/vue-mastery/why-43-of-front-end-developers-want-to-learn-vue-js-7f23348bc5be)
+
 - [How to learn React.js in 2020](https://www.robinwieruch.de/learn-React-Js)
 
 - [8 Minimum Viable Product Examples to Start a Digital Business](https://mlsdev.com/blog/minimum-viable-product-examples)
