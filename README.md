@@ -28,6 +28,8 @@
 
 -[An Amazing blog for CSS](https://www.css-tricks.com) - CSS Tricks
 
+- [TechCrunch](https://techcrunch.com/) – Startup and Technology News Blog
+
 # Courses
 
 - [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
@@ -44,6 +46,9 @@
 
 # Videos
 
+- [How to use GitHub Checks with CircleCI](https://youtu.be/UMZfBPSKnI8) -How to use GitHub Checks with CircleCI
+- [Testing JavaScript](https://testingjavascript.com/) - fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress. by Kent C. Dodds
+
 # Tools
 
 - [Transparent png images for your website](https://cleanpng.com)
@@ -51,6 +56,7 @@
 - [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source 
 
 - [js Fiddle](https://jsfiddle.net/) - https://jsfiddle.net/
+- [Firebase](https://firebase.google.com/) - Firebase is a platform for creating mobile and web applications.
 
 
 - [Code Share](https://codeshare.io/) - Sharing Code Editor
