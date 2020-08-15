@@ -59,7 +59,8 @@
 
 - [Codepen](https://www.codepen.io)- An Online coding text editor.
 
-- [PostMan](https://www.postman.com)-An awespme tool for APIs.
+- [PostMan](https://www.postman.com)-An awesome tool for APIs.
+- [UI design](https://www.uidesigndaily.com)- An awesome desihn resource to practice frontend skills
 
  # Books
 - [The React Handbook](https://flaviocopes.com/page/react-handbook/)- by Flavio Copes
