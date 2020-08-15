@@ -48,6 +48,8 @@
 
 - [Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc) - Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
 
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) 
+
 # Tools
 
 - [Codepen](https://codepen.io/) - The best place to build, test, and discover front-end code.
