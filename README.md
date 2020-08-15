@@ -66,4 +66,4 @@
  # Books
 - [The React Handbook](https://flaviocopes.com/page/react-handbook/)- by Flavio Copes
 
-- [The Javascript Handbook(https://eloquentjavascript.net)- Marjin Haverbeke
+- [The Javascript Handbook](https://eloquentjavascript.net)- Marjin Haverbeke
