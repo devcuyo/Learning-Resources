@@ -30,6 +30,8 @@
 
 # Courses
 
+- [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/?LSNPUBID=QZaBth%2FyPOQ&ranEAID=QZaBth%2FyPOQ&ranMID=39197&ranSiteID=QZaBth_yPOQ-zSsVbM8gBvfP4QdFtSSo_g&utm_medium=udemyads&utm_source=aff-campaign) - https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/?LSNPUBID=QZaBth%2FyPOQ&ranEAID=QZaBth%2FyPOQ&ranMID=39197&ranSiteID=QZaBth_yPOQ-zSsVbM8gBvfP4QdFtSSo_g&utm_medium=udemyads&utm_source=aff-campaign
+
 - [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
 
 - [Basic Web Training](https://www.htmldog.com) - https://www.htmldog.com
