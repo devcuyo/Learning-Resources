@@ -48,6 +48,8 @@
 
 - [Codepen](https://codepen.io/) - The best place to build, test, and discover front-end code.
 
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2) - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
+
 - [Transparent png images for your website](https://cleanpng.com)
 
 - [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source 
