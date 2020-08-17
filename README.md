@@ -45,6 +45,7 @@
 # Videos
 
 - [How to use GitHub Checks with CircleCI](https://youtu.be/UMZfBPSKnI8) -How to use GitHub Checks with CircleCI
+- [Testing JavaScript](https://testingjavascript.com/) - fundamentals of testing your JavaScript applications using ESlint, TypeScript, Jest, and Cypress. by Kent C. Dodds
 
 # Tools
 
