@@ -56,6 +56,7 @@
 - [Git Kraken](https://www.gitkraken.com/) - Git client for Windows, Mac & Linux. Free for open source 
 
 - [js Fiddle](https://jsfiddle.net/) - https://jsfiddle.net/
+- [Firebase](https://firebase.google.com/) - Firebase is a platform for creating mobile and web applications.
 
 
 - [Code Share](https://codeshare.io/) - Sharing Code Editor
