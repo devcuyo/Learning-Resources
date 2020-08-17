@@ -44,6 +44,8 @@
 
 # Videos
 
+- [Minimum Job Requirements in Development](https://youtu.be/UMZfBPSKnI8) -
+
 # Tools
 
 - [Transparent png images for your website](https://cleanpng.com)
