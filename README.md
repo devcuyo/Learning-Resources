@@ -28,6 +28,8 @@
 
 -[An Amazing blog for CSS](https://www.css-tricks.com) - CSS Tricks
 
+- [TechCrunch](https://techcrunch.com/) – Startup and Technology News Blog
+
 # Courses
 
 - [Algorithms and Data Structures implementation in various languages](https://github.com/TheAlgorithms) - https://github.com/TheAlgorithms
