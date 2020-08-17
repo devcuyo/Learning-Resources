@@ -44,7 +44,7 @@
 
 # Videos
 
-- [Minimum Job Requirements in Development](https://youtu.be/UMZfBPSKnI8) -
+- [How to use GitHub Checks with CircleCI](https://youtu.be/UMZfBPSKnI8) -How to use GitHub Checks with CircleCI
 
 # Tools
 
